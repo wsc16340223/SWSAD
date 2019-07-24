@@ -28,7 +28,7 @@
 |**Report**|报告|10|
 |—test report|测试报告|1|
 |—size measurement|计算工作量|1|
-|—postmortem & process improvement plan|总结与改进8|
+|—postmortem & process improvement plan|总结与改进|8|
 
 ## 3. 个人分支的GIT统计报告
 
